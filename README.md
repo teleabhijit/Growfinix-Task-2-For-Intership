@@ -17,7 +17,7 @@ This project predicts house prices using **Linear Regression**.
 - `Task 2 For Internship.ipynb` → Full Jupyter notebook with code & outputs
 - `house_price_model.pkl` → Saved trained model
 - `app.py` → Streamlit app for predictions
-- `Housing for task.csv` → Dataset (if shareable)
+- `Housing for task.csv` → Dataset 
 
 ## 🚀 How to Run
 1. Install required libraries:
